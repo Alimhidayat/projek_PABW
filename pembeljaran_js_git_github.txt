@@ -3,3 +3,5 @@ TimeLine:
 - Belajar JS
 - Belajar Framework React
 - Belajar Framework Angular
+- Membuat project 
+- Kolaborasi dengan lebih banyak
