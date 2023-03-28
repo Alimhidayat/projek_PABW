@@ -1,7 +1,8 @@
 TimeLine: 
-- Belajar Git Github
+- Belajar Git Github (sudah jadi)
 - Belajar JS
 - Belajar Framework React
 - Belajar Framework Angular
 - Membuat project 
 - Kolaborasi dengan lebih banyak
+- Menambahkan yang lain
